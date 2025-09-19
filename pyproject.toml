@@ -47,7 +47,7 @@ notebook = "^7.4.5"
 nbclient = "^0.10.2"
 setuptools = "<81"
 
-[tool.poetry.group.dev.dependencies]
+[tool.poetry.dev-dependencies]
 bumpversion = "^0.6"
 mkdocs-material = ">=3.0.3"
 mkdocs = ">=1.0"
