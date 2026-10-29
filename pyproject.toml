@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "stata_kernel"
-version = "1.14.3"
+version = "1.14.3a1"
 description = "A Jupyter kernel for Stata. Works with Windows, macOS, and Linux."
 authors = [
     "Kyle Barron <kylebarron2@gmail.com>",
